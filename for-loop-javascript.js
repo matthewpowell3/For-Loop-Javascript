@@ -21,5 +21,5 @@ for (var x = 1; x <= 5; x++) {
   //     document.write('Five');
   //     break;
   // }
-  document.write();
+  document.write('<h1>' + 10 * x + '</h1>');
 }
