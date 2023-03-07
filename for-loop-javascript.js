@@ -1,1 +1,3 @@
-console.log('Hello!');
+// for(initialization;codition;increment/decrement)
+{
+}
