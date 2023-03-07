@@ -27,6 +27,12 @@ for (var x = 1; x <= 10; x++) {
 } */
 
 // increments by two
-for (var x = 1; x <= 10; x += 2) {
-  document.write('<h1>' + 10 * x + '</h1>');
-}
+//odd number between 10 and 1
+// for (var x = 1; x <= 10; x += 2) {
+//   document.write('<h1>' + x + '</h1>');
+// }
+
+
+
+
+
