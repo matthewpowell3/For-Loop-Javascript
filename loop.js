@@ -26,6 +26,7 @@ for (var x = 1; x <= 10; x++) {
   document.write('<h1>' + 10 * x + '</h1>');
 } */
 
-for (var x = 1; x <= 10; x+=2) {
-
+// increments by two
+for (var x = 1; x <= 10; x += 2) {
+  document.write('<h1>' + 10 * x + '</h1>');
 }
