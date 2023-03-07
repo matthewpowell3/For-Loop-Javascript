@@ -1,6 +1,7 @@
 // for(initialization;codition;increment/decrement)
 // it will start from one till it reaches 10
-for (var x = 1; x <= 5; x++) {
+for (var x = 1; x <= 10; x++) {
+  /*
   switch (x) {
     case 1:
       document.write('One');
@@ -20,6 +21,6 @@ for (var x = 1; x <= 5; x++) {
     case 5:
       document.write('Five');
       break;
-  }
-  // document.write('<h1>' + 10 * x + '</h1>');
+  } */
+  document.write('<h1>' + 10 * x + '</h1>');
 }
